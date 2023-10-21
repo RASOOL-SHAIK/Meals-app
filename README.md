@@ -1,3 +1,5 @@
 # meal-app
-This app helps you to order your favouite meal ,you can also prepare your favraite meal by watch video feature in the website.  
-Used language in this website is html,css and js with bootstrap . hosted link - https://rasool-shaik.github.io/Meals-app/
+This app helps you to order your favorite meal.
+I have created using HTML, CSS, JavaScript with Bootstrap . 
+
+Hoisted link : https://rasool-shaik.github.io/Meals-app/ tap here for quick review.

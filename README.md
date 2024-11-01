@@ -1,5 +1,3 @@
-Meals App 🍽️
-
 Hoisted link : https://rasool-shaik.github.io/Meals-app/ tap here for quick review.
 
 The Meals App is a web application that allows users to search, view, and manage a personalized list of favorite meals. It fetches meal data from TheMealDB API to provide detailed meal information, including images, instructions, and video links.
